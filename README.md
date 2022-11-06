@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lesik
+- 💪 I'm good at TypeScript/JavaScript and web dev
+- 👀 I’m interested in Rust
