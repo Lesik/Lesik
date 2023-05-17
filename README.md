@@ -2,6 +2,8 @@
 - 💪 I'm good at TypeScript/JavaScript and web dev
 - 👀 I’m interested in Rust
 
+### My open source contributions
+
 I like to contribute to free and open source projects in my free time. Because of my day job taking up most of my time, it ain't much, but it's honest work:
 
 - Flathub, an open source Linux app store. I coded a requested feature to filter for FOSS apps only, and to highlight non-free apps.
